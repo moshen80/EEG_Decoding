@@ -1,0 +1,6 @@
+Data/EEG/all_data.csv
+Data/EEG/test_set.csv
+Data/EEG/training_set.csv
+Data/Labels/all_labels.csv
+Data/Labels/test_label.csv
+Data/Labels/training_label.csv
